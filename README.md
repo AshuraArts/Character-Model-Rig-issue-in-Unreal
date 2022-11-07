@@ -18,3 +18,5 @@ When Imported an error would appear but im unsure why as i used the exact UE4 sk
 However what really confuses me is it breaks the actually skeleton in unreal as even the standard mannequin will distort in the same way after the model has been imported to the file.![Ue broken skeleton](https://user-images.githubusercontent.com/117665909/200357542-ea96fb35-76f1-44ff-b24f-63a011bed5fd.png)
 
 Heres a video of how the character functions in UE4 on top of the standard skeleton: https://www.youtube.com/watch?v=Q10cMoGeCvA
+
+The File for the character model with the unreal skeleton i rigged to it is also in this Github
